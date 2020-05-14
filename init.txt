@@ -1,0 +1,2 @@
+cd C:\Users\Mil\Documents\_SITES\_Trabalho des websites\a
+sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler
